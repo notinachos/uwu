@@ -4,11 +4,18 @@ Inspired by a CraigsList ad.
 
 ## Usage
 Basic usage:
-`./uwu.py "your string looks silly"`
+```bash
+./uwu.py "your string looks silly"
+youw stwing wooks siwwy
+```
 
 Text file:
-`./uwu.py /path/to/file.txt`
+```bash
+./uwu.py /path/to/file.txt
+```
 
 Example:
-`./uwu.py test.txt`
+```bash
+./uwu.py test.txt
+```
 
